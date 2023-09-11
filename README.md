@@ -53,7 +53,7 @@ happy as they are paid way lesser than what is expected.
  
 7. UML Diagrams: UML.pdf
 
-8. Coding: Folder has all the required codes 
+8. Coding: Folder has all the required sample codes that gives insight on building something similar
 
 9. Testing Functionalities: testing.pdf
 
